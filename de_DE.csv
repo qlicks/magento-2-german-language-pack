@@ -15328,3 +15328,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Cannot reset the customer's password","Das Passwort des Kunden kann nicht zurückgesetzt werden",module,Magento_CustomerGraphQl
 "The password token is expired. Reset and try again.","Das Kennwort-Token ist abgelaufen. Zurücksetzen und erneut versuchen.",module,Magento_CustomerGraphQl
 "Unable to place order: %message","Bestellung nicht möglich: %message"
+"The requested qty exceeds the maximum qty allowed in shopping cart","Die angeforderte Menge übersteigt die maximal zulässige Menge im Warenkorb"
