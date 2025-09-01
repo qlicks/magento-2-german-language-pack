@@ -13972,7 +13972,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Please enter positive number in this field.","Bitte geben Sie eine positive Zahl in diesem Feld ein.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Bitte geben Sie einen gültigen Wert ein, z. B. 10,20,30",module,Magento_Ui
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
-"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_Ui
+"The fewest you may purchase is %1.","Das Minimum, welches Sie kaufen können ist %1.",module,Magento_Ui
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_Ui
 "We don't recognize or support this file extension type.","Wir erkennen oder unterstützen diesen Dateierweiterungstyp nicht.",module,Magento_Ui
@@ -15291,7 +15291,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "This is required field","Dies ist ein Pflichtfeld",lib,web
 "Admin is a required field in each row.","Admin ist in jeder Zeile ein erforderliches Feld.",lib,web
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
-"The fewest you may purchase is %1.","The fewest you may purchase is %1.",lib,web
+"The fewest you may purchase is %1.","Das Minimum, welches Sie kaufen können ist %1.",lib,web
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
